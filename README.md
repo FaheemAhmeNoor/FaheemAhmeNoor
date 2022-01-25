@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FaheemAhmeNoor
-- 👀 I’m interested in Web Development React, Django
+- 👀 I’m interested in Web Development | React, Django
 - 🌱 I’m currently learning React and Django
 - 💞️ I’m looking to collaborate on React and Django Projects
 - 📫 My contact details are:
-      linkedin.com/faheemahmednoor
+      linkedin.com/faheemahmednoor ,
       +923154228485
 
 <!---
